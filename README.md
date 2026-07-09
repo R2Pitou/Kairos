@@ -388,10 +388,5 @@ Because human curiosity is too valuable to spend on bookkeeping.
 
 ---
 
-> **The machine should remember.**
->
-> **The machine should explain.**
->
-> **The human should wonder.**
->
-> **Only then is the human truly free to be present.**
+> “The machine should remember so the human can wander with their mind free to wonder.” 
+> —Kairos

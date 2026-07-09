@@ -1,6 +1,7 @@
 # Kairos
 
 >_The machine should remember so the human can wander with their mind free to wonder._
+>
 >—Kairos
 
 Kairos is a semantic life operating system.

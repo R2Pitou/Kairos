@@ -1,6 +1,6 @@
 # Kairos
 
-> **The machine should remember so the human can wander with their mind free to wonder.**
+> _The machine should remember so the human can wander with their mind free to wonder._
 
 —Kairos
 

@@ -2,6 +2,8 @@
 
 > **The machine should remember so the human can wander with their mind free to wonder.**
 
+—Kairos
+
 Kairos is a semantic life operating system.
 
 It is not a second brain.
@@ -387,6 +389,3 @@ A system that quietly remembers, understands and explains reality so that people
 Because human curiosity is too valuable to spend on bookkeeping.
 
 ---
-
-> “The machine should remember so the human can wander with their mind free to wonder.” 
-> —Kairos
